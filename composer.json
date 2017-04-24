@@ -1,0 +1,20 @@
+{
+  "name": "muplugin/book-enable-plugins",
+  "type": "wordpress-muplugin",
+  "description": "enable default plugins",
+  "keywords": [
+    "wordpress",
+    "muplugin"
+  ],
+  "authors": [
+    {
+      "name": "Stefan Schwager",
+      "homepage": "http://www.axelspringer.de"
+    }
+  ],
+  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/book-enable-plugins",
+  "license": "proprietary",
+  "extra": {
+    "installer-name": "book-enable-plugins"
+  }
+}
