@@ -1,5 +1,5 @@
 {
-  "name": "muplugin/book-enable-plugins",
+  "name": "axelspringer/wp-mu-book-enable-plugins",
   "type": "wordpress-muplugin",
   "description": "enable default plugins",
   "keywords": [
@@ -10,11 +10,15 @@
     {
       "name": "Stefan Schwager",
       "homepage": "http://www.axelspringer.de"
+    },
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
   ],
-  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/book-enable-plugins",
-  "license": "proprietary",
+  "homepage": "https://github.com/axelspringer/wp-mu-book-enable-plugins",
+  "license": "Apache-2.0",
   "extra": {
-    "installer-name": "book-enable-plugins"
+    "installer-name": "wp-mu-book-enable-plugins"
   }
 }
